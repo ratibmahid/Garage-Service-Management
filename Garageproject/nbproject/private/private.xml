@@ -5,14 +5,18 @@
         <group>
             <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/HomepageM.java</file>
             <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/Car.java</file>
-            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/painting.java</file>
             <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/loginm_form.java</file>
             <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/Loginc_form.java</file>
-            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/Body_Servicing.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Controler/user.java</file>
             <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/customer_homepage.java</file>
             <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/Registrationl_form.java</file>
-            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/Basic.java</file>
             <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/HomepageC.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Controler/Serviceinformation.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/painting.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Controler/Client.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/Body_Servicing.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Controler/Manager.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Garageproject/src/Garage_service/Basic.java</file>
         </group>
     </open-files>
 </project-private>
